@@ -27,31 +27,6 @@ MoodWave is designed to enhance voice transformations, allowing users to modify 
 - Customizable emotional tones
 - Easy-to-use interface for both training and inference
 
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/MoodWave.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd MoodWave
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-
-- Follow the instructions in the [Usage Guide](docs/usage_guide.md) to get started with transforming voices using MoodWave.
 
 ## Model Architecture
 
@@ -92,14 +67,8 @@ MoodWave performs best when trained on a diverse dataset of voice recordings tha
 ![MoodWave IO process](img/MoodWave%20IO%20process.png)
 *Image 2: Visualization of the MoodWave Input/Output Process*
 
-## Contributing
-
-We welcome contributions from the community! If you have suggestions, bug reports, or want to contribute to the development of MoodWave, please refer to [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgments
-
-- The MoodWave team extends gratitude to the open-source community for their continuous support and contributions.
