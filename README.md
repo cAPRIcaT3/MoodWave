@@ -1,7 +1,4 @@
 # MoodWave
-AI's gonna help you transform the tone, emotion and gender of your voice. 
-
-# MoodWave
 
 MoodWave is an open-source project that aims to transform voices by infusing emotional characteristics. The project utilizes a transformer-based neural network to modify the emotional tone of input voice recordings.
 
@@ -74,6 +71,14 @@ After training, you can use the trained model for voice transformation. Refer to
 
 MoodWave performs best when trained on a diverse dataset of voice recordings. If you'd like to contribute or use a pre-existing dataset, check the [Dataset Guide](docs/dataset_guide.md) for recommendations and guidelines.
 
+## Images
+
+![MoodWave Training](img/MoodWave%20Training.png)
+*Image 1: Visualization of the MoodWave Training Process*
+
+![MoodWave IO process](img/MoodWave%20IO%20process.png)
+*Image 2: Visualization of the MoodWave Input/Output Process*
+
 ## Contributing
 
 We welcome contributions from the community! If you have suggestions, bug reports, or want to contribute to the development of MoodWave, please refer to [Contribution Guidelines](CONTRIBUTING.md).
@@ -85,4 +90,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgments
 
 - The MoodWave team extends gratitude to the open-source community for their continuous support and contributions.
-
