@@ -1,4 +1,4 @@
-## Emotions Sentences
+## Sentiments and Example sentences
 
 ### Happiness
 "Absolutely thrilled you feel the same way—it's seriously fantastic!"
