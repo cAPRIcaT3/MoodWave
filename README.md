@@ -69,7 +69,20 @@ After training, you can use the trained model for voice transformation. Refer to
 
 ## Dataset
 
-MoodWave performs best when trained on a diverse dataset of voice recordings. If you'd like to contribute or use a pre-existing dataset, check the [Dataset Guide](docs/dataset_guide.md) for recommendations and guidelines.
+MoodWave performs best when trained on a diverse dataset of voice recordings that cover a wide range of emotions. The dataset is structured by emotion categories, allowing the model to learn transformations specific to each emotional context.
+
+### Emotions:
+
+- **Happiness**
+- **Sadness**
+- **Anger**
+- **Fear**
+- **Disgust**
+- **Neutral**
+- **Excitement**
+- **Pride**
+- **Aversion**
+- **Surprise**
 
 ## Images
 
