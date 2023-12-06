@@ -1,46 +1,62 @@
-## Sentiment Categories and Examples
+## Emotions Sentences
 
-1. **Happiness:**
-   - Example: "I'm sooo thrilled you feel the same way about me—it's, like, super awesome!"
+### Happiness
+"Absolutely thrilled you feel the same way—it's seriously fantastic!"
 
-2. **Disappointment:**
-   - Example: "Um, I seriously didn't think you'd go and cheat on me with my own sister. Like, what the heck?"
+### Disappointment
+"Seriously didn't think you'd go and cheat on me with my sister. Like, what the heck?"
 
-3. **Sadness:**
-   - Example: "I miss Angela a lot. It's just, like, this huge empty feeling that won't go away."
+### Sadness
+"Miss Angela a lot. It's this huge empty feeling that won't go away."
 
-4. **Anger:**
-   - Example: "If your brother hadn't helped you out, I would've totally given you a piece of my mind, maybe even more."
+### Anger
+"If your brother hadn't helped you out, I would've given you a piece of my mind, maybe more."
 
-5. **Worry:**
-   - Example: "I was legit freaking out, thinking something bad might've happened to you. It was really, like, stressing me out."
+### Worry
+"I was legit freaking out, thinking something bad might've happened to you. It was really stressing me out."
 
-6. **Fear:**
-   - Example: "Don't come any closer, seriously! I'm, like, really scared right now."
+### Fear
+"Don't come any closer, seriously! I'm really scared right now."
 
-7. **Disgust:**
-   - Example: "Ugh, look at your face! No way am I saying yes to going out with you."
+### Disgust
+"Ugh, look at your face! No way am I saying yes to going out with you."
 
-8. **Agreement:**
-   - Example: "Alright, cool! That totally works for me, no problem at all."
+### Agreement
+"Alright, cool! That totally works for me, no problem at all."
 
-9. **Disagreement:**
-   - Example: "Nah, can't do that. It's, like, not gonna happen, you know?"
+### Disagreement
+"Nah, can't do that. It's not gonna happen, you know?"
 
-10. **Neutral:**
-    - Example: "She was actually doing it for you, like, trying to help you out or something."
+### Neutral
+"She was actually doing it for you, trying to help you out or something."
 
-11. **Excitement:**
-    - Example: "YESSS! I never thought my crush would be at the party—it's, like, so freaking amazing!"
+### Excitement
+"YESSS! I never thought my crush would be at the party—it's so freaking amazing!"
 
-12. **Pride:**
-    - Example: "There's just no way he's better than me at archery. I've got the skills, no doubt."
+### Pride
+"There's just no way he's better than me at archery. I've got the skills, no doubt."
 
-13. **Assertive:**
-    - Example: "We seriously need to get out of here, like, right now. It's not safe."
+### Assertive
+"We seriously need to get out of here, right now. It's not safe."
 
-14. **Urgency:**
-    - Example: "We gotta move quickly, okay? Before someone spots us and things get, like, really bad!"
+### Urgency
+"We gotta move quickly, okay? Before someone spots us and things get really bad!"
 
-15. **Surprise:**
-    - Example: "WOW, okay! That totally caught me off guard, like, I was not expecting that at all."
+### Surprise
+"WOW, okay! That totally caught me off guard, I was not expecting that at all."
+
+### Seductive
+"You know, I can't help but notice how we always have these intense moments. It's impossible to resist."
+
+### Frustrated
+"I've been trying to explain this to you for ages, and it feels like you're just not getting it. It's beyond irritating."
+
+### Reminiscent
+"Thinking about those old times with the gang, it's a flood of memories. We had some good moments, huh?"
+
+### Bored
+"I'm just sitting here, staring at the wall. It's the most boring thing ever. I need something exciting to happen."
+
+### Shy
+"Um, hey, I wanted to ask if, you know, you'd maybe want to grab a coffee or something? It's totally up to you."
+
