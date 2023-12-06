@@ -5,6 +5,7 @@ MoodWave is an open-source project that aims to transform voices by infusing emo
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Ethical Use Statement](#ethical-use-statement)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
@@ -13,13 +14,35 @@ MoodWave is an open-source project that aims to transform voices by infusing emo
 - [Training](#training)
 - [Inference](#inference)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
 MoodWave is designed to enhance voice transformations, allowing users to modify the emotional characteristics of voice recordings. Whether you want to add excitement, calmness, or other emotions to your voice, MoodWave provides a customizable solution.
+
+## Ethical Use Statement
+
+MoodWave is intended for responsible and ethical use. The project strongly discourages any misuse that could lead to deceptive practices, deep fakes, or any form of unethical application. Users are expected to adhere to the following ethical guidelines:
+
+1. **Creative and Educational Purposes:**
+   - MoodWave is developed for creative and educational purposes, empowering users to explore innovative ways of expressing emotions through voice transformation.
+
+2. **Avoiding Misuse:**
+   - Users are strictly advised against using MoodWave for deceptive or malicious purposes, including the creation of content with the intent to deceive, impersonate, or harm others.
+
+3. **Respecting Privacy:**
+   - MoodWave respects privacy rights. Users should obtain proper consent before using someone's voice for transformation and should refrain from using the technology to infringe upon individuals' privacy.
+
+4. **Legal Compliance:**
+   - Ensure that your usage of MoodWave complies with all relevant laws and regulations regarding privacy, consent, and the ethical use of synthesized voices.
+
+5. **Transparency and Disclosure:**
+   - Be transparent about the capabilities and limitations of MoodWave. Clearly communicate the project's intended use to help users make responsible choices.
+
+6. **Security Measures:**
+   - Implement security measures to prevent unauthorized access or misuse of MoodWave, safeguarding against potential deceptive content creation without proper authorization.
+
+By using MoodWave, you acknowledge and agree to adhere to these ethical guidelines. The project maintains a commitment to ethical development practices and encourages users to contribute to positive and creative applications.
 
 ## Features
 
@@ -48,16 +71,26 @@ MoodWave performs best when trained on a diverse dataset of voice recordings tha
 
 ### Emotions:
 
-- **Happiness**
-- **Sadness**
-- **Anger**
-- **Fear**
-- **Disgust**
-- **Neutral**
-- **Excitement**
-- **Pride**
-- **Aversion**
-- **Surprise**
+-**Happiness**
+-**Disappointment**
+-**Sadness**
+-**Anger**
+-**Worry**
+-**Fear**
+-**Disgust**
+-**Agreement**
+-**Disagreement**
+-**Neutral**
+-**Excitement**
+-**Pride**
+-**Assertive**
+-**Urgency**
+-**Surprise**
+-**Seductive**
+-**Frustrated**
+-**Reminiscent**
+-**Bored**
+-**Shy**
 
 ## Images
 
